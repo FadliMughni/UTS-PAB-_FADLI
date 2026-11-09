@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom 042 Theme Colors -->
+    <color name="navy_dark_042">#0D1B2A</color>
+    <color name="navy_primary_042">#1B263B</color>
+    <color name="blue_accent_042">#415A77</color>
+    <color name="blue_light_042">#E0E1DD</color>
+    <color name="blue_highlight_042">#1E88E5</color>
+    <color name="white_042">#FFFFFF</color>
+    <color name="green_success_042">#2E7D32</color>
+    <color name="red_danger_042">#D32F2F</color>
+    <color name="gray_background_042">#F4F6F9</color>
+    <color name="gray_text_042">#666666</color>
+    <color name="card_stroke_042">#E0E6ED</color>
+</resources>

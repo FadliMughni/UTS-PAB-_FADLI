@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Fadli_MyInventory" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy_primary_042</item>
+        <item name="colorOnPrimary">@color/white_042</item>
+        <item name="colorPrimaryContainer">@color/navy_dark_042</item>
+        <item name="colorOnPrimaryContainer">@color/white_042</item>
+        <item name="colorSecondary">@color/blue_accent_042</item>
+        <item name="colorOnSecondary">@color/white_042</item>
+        <item name="android:statusBarColor">@color/navy_dark_042</item>
+        <item name="android:windowBackground">@color/gray_background_042</item>
+    </style>
+
+    <style name="Theme.Fadli_MyInventory" parent="Base.Theme.Fadli_MyInventory" />
+</resources>
